@@ -31,8 +31,7 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+
 
 # Dependency directories
 node_modules/
@@ -61,11 +60,6 @@ typings/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
-
-# next.js build output
-.next
-
-
 
 
 
